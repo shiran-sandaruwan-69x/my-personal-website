@@ -3,7 +3,7 @@
   display: none;
   width: 100%;
   -webkit-tap-highlight-color: transparent;
-  /* position relative and z-index fix webkit rendering fonts issue */
+
   position: relative;
   z-index: 1; }
   .owl-carousel .owl-stage {
@@ -115,7 +115,7 @@
   transition: height 500ms ease-in-out; }
 
 
-.owl-carousel .owl-item {
+.owl-carousel .owl-item {}
 l .owl-item .owl-lazy {
     opacity: 0;
     transition: opacity 400ms ease; }

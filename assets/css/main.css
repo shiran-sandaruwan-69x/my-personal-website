@@ -644,11 +644,6 @@ header
 }
 
 
-/* 
----------------------------------------------
-banner
---------------------------------------------- 
-*/
 
 .main-banner {
   position: relative;
@@ -779,11 +774,6 @@ banner
 }
 
 
-/*
----------------------------------------------
-services
----------------------------------------------
-*/
 
 .services {
   margin-top: -135px;
@@ -915,11 +905,7 @@ services
 }
 
 
-/*
----------------------------------------------
-upcoming meetings
----------------------------------------------
-*/
+
 
 section.upcoming-meetings {
   /*background-image: url(../images/meetings-bg.jpg);*/
@@ -1050,11 +1036,7 @@ section.upcoming-meetings .categories .main-button-red a {
 
 
 
-/*
----------------------------------------------
-apply now
----------------------------------------------
-*/
+
 
 section.apply-now {
   background-image: url(../images/apply-bg.jpg);
@@ -1134,11 +1116,6 @@ section.apply-now .item p {
 }
 
 
-/* 
----------------------------------------------
-courses
---------------------------------------------- 
-*/
 
 section.our-courses {
   background-image: url(../images/meetings-bg.jpg);
@@ -1282,11 +1259,6 @@ section.our-courses {
 }
 
 
-/*
----------------------------------------------
-our facts
----------------------------------------------
-*/
 
 section.our-facts {
   background-image: url(../background/5.jpg);
@@ -1367,7 +1339,7 @@ contact us
 */
 
 section.contact-us {
-  background-image: url(../images/meetings-bg.jpg);
+  background-image: url(../background/8.jpg);
   background-position: center center;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -1376,14 +1348,14 @@ section.contact-us {
 }
 
 section.contact-us #contact {
-  background-color: #fff;
+  background-color: rgba(255, 255, 255, 0.41);
   border-radius: 20px;
   padding: 40px;
 }
 
 section.contact-us #contact h2 {
   text-transform: uppercase;
-  color: #1f272b;
+  color: #004162;
   border-bottom: 1px solid #eee;
   margin-bottom: 40px;
   padding-bottom: 20px;
@@ -1490,11 +1462,7 @@ section.contact-us .right-info ul li span {
 }
 
 
-/*
----------------------------------------------
-heading page
----------------------------------------------
-*/
+
 
 section.heading-page {
   background-image: url(../images/heading-bg.jpg);
@@ -1526,11 +1494,7 @@ section.heading-page h2 {
 }
 
 
-/*
----------------------------------------------
-upcoming meetings page
----------------------------------------------
-*/
+
 
 section.meetings-page {
   background-image: url(../images/meetings-page-bg.jpg);

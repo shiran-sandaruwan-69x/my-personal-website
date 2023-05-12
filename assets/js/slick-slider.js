@@ -154,9 +154,7 @@
 
             _.instanceUid = instanceUid++;
 
-            // A simple way to check for HTML strings
-            // Strict HTML recognition (must start with <)
-            // Extracted from jQuery v1.11 source
+
             _.htmlExpr = /^(?:\s*(<[\w\W]+>)[^>]*)$/;
 
 
@@ -1653,11 +1651,7 @@
 
                 if ( tryCount < 3 ) {
 
-                    /**
-                     * try to load the image 3 times,
-                     * leave a slight delay so we don't get
-                     * servers blocking the request.
-                     */
+
                     setTimeout( function() {
                         _.progressiveLazyLoad( tryCount + 1 );
                     }, 500 );

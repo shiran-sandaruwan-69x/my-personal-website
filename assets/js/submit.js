@@ -1,0 +1,3 @@
+$('#check').onclick(()=>{
+    alert('hello')
+})
