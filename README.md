@@ -1,2 +1,2 @@
 # my-personal-website
-URL https://shiransandaruwan.000webhostapp.com/ 
+URL https://shiran-sandaruwan-69x.github.io/my-personal-website/
